@@ -16,10 +16,10 @@ let state;
 
 // object
 
-console.log(typeof(undefined)); // undefined
-console.log(typeof null); // object
-console.log(typeof "4444"); // object
-console.log(12 + 156); // object
+// console.log(typeof(undefined)); // undefined
+// console.log(typeof null); // object
+// console.log(typeof "4444"); // object
+// console.log(12 + 156); // object
 let makrs = 156
 if(typeof(makrs) == "number"){
     console.log(12 + makrs)
